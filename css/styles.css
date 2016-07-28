@@ -1,0 +1,93 @@
+<!doctype html>
+
+    <html>
+        <head>
+            <title>Phillip</title>
+            
+         <meta charset="utf-8" />
+         <meta name="keywords" content="phillip romero, web design, web design fresno" />
+         <meta name="description" content="Phillip Romero's web design is a award winning web studio" />
+            
+         <link rel="stylesheet=" href="css/styles.css" type="text/css" />   
+        </head>   
+        <body>
+            <header>
+                <div id="innerHeader" class="mainWidth">
+                    <div id="logo">
+                        <h1><a href="index.html" title="">Mr. Phillip Romero</a></h1>
+                        
+                        
+<!--                        <a href="index.html" title=""><img src="images/main-logo.png" alt="" title="" /></a>-->
+                    </div>
+                    <nav id="menu">
+                        <ul>
+                            <li><a href="index.html" title="" class="currentPage"></a>Home</li>
+                            <li><a href="about.html" title=""> </a>About</li>
+                            <li><a href="contact.html" title=""> </a>Contact</li>
+                        </ul>
+                    </nav>
+                </div>
+            </header>
+            <div id="banner">
+                <h1 class="bannerText">We're Amazing Ya'll!</h1>
+            </div>
+            <main>
+<!--                COLUMN 1 BEGINS HERE-->
+                <div class="columnOne">
+                    <h1>Boxing</h1>
+                    <img src="images/boxing.png" alt="" title="" />
+                    <span>Undefeated!</span>
+                    <p>Lorem ipsum</p>
+                    <a href="" title="" class="button">look here!</a>
+                </div>
+<!--                COLUMN 1 ENDS HERE-->
+                
+<!--                COLUMN 2 BEGINS HERE-->
+                <div class="columnOne">
+                    <h1>Boxing</h1>
+                    <img src="images/boxing.png" alt="" title="" />
+                    <span>Undefeated!</span>
+                    <p>Lorem ipsum</p>
+                    <a href="" title="" class="button">look here!</a>
+                </div>
+<!--                COLUMN 1 ENDS HERE-->
+            
+<!--                COLUMN 3 BEGINS HERE-->
+                <div class="columnOne">
+                    <h1>Boxing</h1>
+                    <img src="images/boxing.png" alt="" title="" />
+                    <span>Undefeated!</span>
+                    <p>Lorem ipsum</p>
+                    <a href="" title="" class="button">look here!</a>
+                </div>
+<!--                COLUMN 1 ENDS HERE-->
+                
+<!--                My ABOUT ME SECTION STARTS HERE-->
+                <section id="aboutMe" class="mainWidth">
+                <aside class="asideLeft">
+                    <img src="images/phillip.jpg" title="" alt="" />
+                </aside>
+                <article class="articleHome">
+                    <h2>Mr. Phillip Romero</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem iusto quaerat iste numquam quod, minima non. Sit asperiores debitis quaerat adipisci enim voluptates pariatur sequi ea, eos sunt nisi eveniet nobis, recusandae laborum necessitatibus, laudantium quasi officiis possimus architecto distinctio aperiam. Accusamus alias omnis magnam aperiam minus atque optio obcaecati autem odit ab sunt quam incidunt, iure cum doloribus sed vero natus ea. Itaque necessitatibus perferendis animi. Soluta cupiditate molestiae et tempora dignissimos nisi ab enim ut odit omnis a reiciendis pariatur non sequi numquam inventore tenetur ratione, excepturi error.</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus quia optio voluptate nisi quos ad animi nam voluptates architecto commodi hic doloremque possimus cum deleniti, modi fuga molestias vel labore dolorem blanditiis quidem eum. Magnam excepturi ad id. Minus quam reprehenderit quis laborum at beatae, error aspernatur velit ab eos?</p>
+                    <a href="about.html" title="" class="button"> Read My Full Bio...</a>
+                </article>    
+                
+                </section>
+                
+<!--                MY ABOUT ME SECTION ENDS HERE-->
+                
+                
+            </main>
+            <footer>
+                <div>
+                    <a href="http://www.facebook.com/"Phillip Romero target="_blank" title=""><i class="fa fa-facebook"></i></a>
+                    <a href="http://www.twitter.com/"Phillip Romero target="_blank" title=""><i class="fa fa-twitter"></i></a>
+                    <a href="http://www.linkedin.com/"Phillip Romero target="_blank" title=""><i class="fa fa-linkedin"></i></a>
+                    
+                </div>
+                <p>&copy; Copyright 2016, Mr. Phillip Romero. All rights reserved.| Site by: <a href="#" target="_blank" title="">Mr. Phillip Romero</a></p>
+            </footer>
+        </body>
+    </html>
